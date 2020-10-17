@@ -2,3 +2,5 @@
 aca arrancamos de 1
 
 la larga historia de un analitico de datos y marketing empezara
+
+la Rama cabecera acaba de iniciar vamos a ver como nos va
